@@ -133,7 +133,7 @@ export default function DasawismaApp() {
 
   const GREEN = "#16a34a";
   const GREEN_DARK = "#14532d";
-  const GREEN_LIGHT = "#dcfce7";
+  // const GREEN_LIGHT = "#dcfce7";
   const ACCENT = "#f59e0b";
 
   const inputStyle = {
